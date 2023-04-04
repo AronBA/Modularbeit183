@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WPy9qWpEtGMSuA/SEsGLzXD8yX4muuyiwMGb8jNQLg/bpcP4/OebcZn48hKljVL4PtUw0HPf15L3gRVGHwisw==",
+  "success": true,
+  "projectFilePath": "/home/aron/RiderProjects/Modularbeit183/Modularbeit183/Modularbeit183.csproj",
+  "expectedPackageFiles": [
+    "/home/aron/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
